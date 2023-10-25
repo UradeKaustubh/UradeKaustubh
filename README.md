@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Front-End Projects](https://github.com/UradeKaustubh)
 
-- 👨‍💻 All of my projects are available at (https://github.com/UradeKaustubh)
+- 👨‍💻 All of my projects are available at https://github.com/UradeKaustubh
 
 - 📫 How to reach me **uradekaustubh@gmail.com**
 
