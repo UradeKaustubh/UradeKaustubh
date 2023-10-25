@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Urade</h1>
+<div align="center"> <img src="https://github.com/UradeKaustubh/UradeKaustubh/blob/main/gif124.gif"> </div>
+https://github.com/UradeKaustubh/UradeKaustubh/blob/main/gif124.gif
 <h3 align="center">I'm Kaustubh Urade, a Passionate and Driven Computer Engineering Student. <br>Seeking Challenging Job or Internship Opportunities. Currently honing skills in software development & designing. Eager to contribute to a dynamic organization that fosters growth and professional development. Open to exciting internship experiences and career opportunities in the field of computer engineering.<br>Let's connect and explore how we can collaborate!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uradekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="uradekaustubh" /> </p>
