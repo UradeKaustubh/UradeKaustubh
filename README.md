@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uradekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="uradekaustubh" /> </p>
 
-- 🔭 I’m currently working on [Front-End Projects](https://github.com/UradeKaustubh)
+- 🔭 I’m currently working on [Front-End Projects](https://github.com/Portfolio)
 
 - 👨‍💻 All of my projects are available at https://github.com/UradeKaustubh
 
 - 📫 How to reach me **uradekaustubh@gmail.com**
 
-<a href="Kaustubh Urade Resume.pdf" style="color:red;" download>Download CV</a>
+<a href="Kaustubh Urade Resume.pdf" download>Download CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
