@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Front-End Projects](https://kaustubhurade.netlify.app)
 
-- 👨‍💻 All of my projects are available at [wow](https://github.com/UradeKaustubh)
+- 👨‍💻 All of my projects are available at [GitHub🌐](https://github.com/UradeKaustubh)
 
 - 📫 How to reach me **uradekaustubh@gmail.com**
 
