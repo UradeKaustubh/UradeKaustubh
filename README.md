@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **uradekaustubh@gmail.com**
 
+<a href="Kaustubh Urade Resume.pdf" download>Download CV</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uradekaustubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uradekaustubh" height="30" width="40" /></a>
