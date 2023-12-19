@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uradekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="uradekaustubh" /> </p>
 
-- 🔭 I’m currently working on [Front-End Projects](https://github.com/Portfolio)
+- 🔭 I’m currently working on [Front-End Projects](https://github.com/UradeKaustubh/Portfolio)
 
 - 👨‍💻 All of my projects are available at https://github.com/UradeKaustubh
 
