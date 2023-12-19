@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **uradekaustubh@gmail.com**
 
-<a href="Kaustubh Urade Resume.pdf" download>        View Resume 📑</a>
+<a href="Kaustubh Urade Resume.pdf" download>-       View Resume 📑</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
