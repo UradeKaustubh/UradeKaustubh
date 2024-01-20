@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Urade</h1>
 <div align="center"> <img src="https://github.com/UradeKaustubh/UradeKaustubh/blob/main/Banner.png"> </div>
 <h3 align="center">I'm Kaustubh Urade, a Passionate and Driven Computer Engineering Student. <br>Seeking Challenging Job or Internship Opportunities. Currently honing skills in software development & designing. Eager to contribute to a dynamic organization that fosters growth and professional development. Open to exciting internship experiences and career opportunities in the field of computer engineering.<br>Let's connect and explore how we can collaborate!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/norklan.app/wp-content/uploads/2022/09/102926-support.gif?fit=640%2C640&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uradekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="uradekaustubh" /> </p>
 
