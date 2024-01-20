@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Urade</h1>
 <div align="center"> <img src="https://github.com/UradeKaustubh/UradeKaustubh/blob/main/Banner.png"> </div>
 <h3 align="center">I'm Kaustubh Urade, a Passionate and Driven Computer Engineering Student. <br>Seeking Challenging Job or Internship Opportunities. Currently honing skills in software development & designing. Eager to contribute to a dynamic organization that fosters growth and professional development. Open to exciting internship experiences and career opportunities in the field of computer engineering.<br>Let's connect and explore how we can collaborate!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstaging.commonblockbrewing.com%2F%3Fq%3Danimated-angry-man-coding-gif-oo-x7JwxqHr&psig=AOvVaw2GDfyWgAbFk3S2ozSiHHF_&ust=1705877904074000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCEwMeI7YMDFQAAAAAdAAAAABBW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uradekaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="uradekaustubh" /> </p>
 
